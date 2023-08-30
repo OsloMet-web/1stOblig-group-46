@@ -1,13 +1,9 @@
 <!DOCTYPE html>
 <head>
-    <title>heisann</title>
-    <link rel="stylesheet" href="styles.css">
+
+    
 </head>
 <body>
-   <h1>hei</h1> 
-   <h2>Victor kan ikke dette faget</h2>
-   <p>Det er <em>gøy</em> med data</p>
-   <img src="medier/hest.jpg" alt="hei">
-   <p>Hei<a href="https://www.w3schools.com/html/html_css.asp"></a> Dette er en link</p>
+   
 </body>
 </html>
